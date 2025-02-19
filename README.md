@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Todo:
 * add option for tip to be a % of the total
+This project is a demonstration of blockchain technology and smart contract integration.
